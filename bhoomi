@@ -3,8 +3,9 @@
   <title>document<\title>
   <\head>
   <body>
-  <h1> hi <\h1>
+  <h1>hi</h1>
+  <h2>hello</h2>
     
-  <\body>
+    <\body>
 <\html>
   
